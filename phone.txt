@@ -1,6 +1,5 @@
 phone
 
 touchscreen
-scratchless
-ok
+
 dude
